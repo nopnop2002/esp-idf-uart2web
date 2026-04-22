@@ -95,21 +95,22 @@ __You can change it to any pin using menuconfig.__
 
 # Launch a web browser   
 Enter the following in the address bar of your web browser.   
-You can communicate to Arduino-UNO using browser.   
-The Change button changes the number of lines displayed.   
-The Copy button copies the received data to the clipboard.   
 ```
 http:://{IP of ESP32}/
 or
 http://esp32-server.local/
 ```
 
+You can communicate to Arduino-UNO using browser.   
+The Change button changes the number of lines displayed.   
+The Copy button copies the received data to the clipboard.   
+
 ![Web-Serial](https://user-images.githubusercontent.com/6020549/204442158-0e8e1b11-caa8-4937-b830-99d331ca3fa6.jpg)
 
 # WEB Pages
 WEB Pages are stored in the html folder.   
 I used [this](https://bulma.io/) open source css.   
-You cam change root.html as you like.   
+You can change root.html as you like.   
 
 # References
 
